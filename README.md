@@ -17,15 +17,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🚗 AGV Line Follower Robot
-- Line following robot using LDR sensor array + ESP32-S3
-- Implemented and tuned PID algorithm in real hardware
-- Thesis project - Score: 8.5/10
-
----
-
 ## 📂 My Projects
 
 | Project | Tech | Description |
