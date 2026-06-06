@@ -1,6 +1,6 @@
 # Hi, I'm Bình 👋
 
-🎓 Electronics & Telecommunications Engineer - Hanoi University of Industry (HUI)  
+🎓 Electronics & Telecommunications Engineer - Hanoi University of Industry (HAUI)  
 🔧 Interested in: Embedded Systems, IoT, Automatic Control  
 📍 Hanoi, Vietnam  
 📧 bintest0801@gmail.com
