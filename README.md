@@ -26,12 +26,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📂 My Projects
 
-![Bình's GitHub stats](https://github-readme-stats.vercel.app/api?username=bintest0801-hub&show_icons=true&theme=default)
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: bintest0801@gmail.com
+| Project | Tech | Description |
+|---|---|---|
+| 🚗 [AGV Line Follower](https://github.com/bintest0801-hub/AGV-Line-Follower-Robot) | ESP32-S3, PID, WebSocket | Autonomous line-following robot |
+| 🌡️ [Fan Temperature Control](https://github.com/bintest0801-hub/stm32-fan-temperature-control) | STM32, PWM, UART | Auto fan speed control via temperature |
+| 📡 [IoT Temperature Monitor](https://github.com/bintest0801-hub/esp8266-iot-temperature-monitor) | ESP8266, WiFi, LCD | Wireless temperature monitoring system |
